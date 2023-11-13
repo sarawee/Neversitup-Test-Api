@@ -34,7 +34,7 @@ $ yarn install
 ```
 
 ## Running the app
-
+- Run locally with swagger <http://localhost:3000/api>
 ```bash
 # development
 $ yarn run start
